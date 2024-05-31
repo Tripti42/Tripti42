@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tripti
-- 🌱 I’m currently learning M. Sc(mathematics and scientific competing) 
+- 🌱 I’m currently pursuing M. Sc(mathematics and scientific competing) 
 
 <!---
 Tripti42/Tripti42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
